@@ -1,0 +1,4 @@
+ID        |Date           |Customer Name                                   |                  Amount
+1221416   |01-11-2021     |Eimi Fukada                                     |                  231.00
+1221546   |01-11-2021     |Akiho Yoshizawa                                 |                   99.00
+1221846   |01-11-2021     |Rola Takizawa                                   |                  249.00

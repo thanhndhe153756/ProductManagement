@@ -1,0 +1,11 @@
+ID        |Name                                            |                   Price|          Stock
+21        |Mouse                                           |                   12.00|            800
+4         |Speaker                                         |                   14.00|            400
+63        |USB 16G                                         |                   60.00|            500
+1         |Printer                                         |                   80.00|            200
+10        |Paper A4 EPSON                                  |                   10.00|           5000
+15        |Keyboard                                        |                   15.00|            480
+38        |17'' LCD Monitor                                |                  119.00|            800
+54        |USB 8G                                          |                   45.00|            150
+72        |Headphone                                       |                   10.00|            700
+80        |Earphone                                        |                    8.00|            600
